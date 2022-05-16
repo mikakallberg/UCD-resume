@@ -203,6 +203,30 @@ footer{
     background: #c4302b;
 }
 
+.social-links-facebook a i:hover{
+    opacity: 0.4;
+}
+
+.social-links-twitter a i:hover{
+    opacity: 0.4;
+}
+
+.social-links-linkedin a i:hover{
+    opacity: 0.4;
+}
+
+.social-links-pinterest a i:hover{
+    opacity: 0.4;
+} 
+
+.social-links-instagram a i:hover{
+    opacity: 0.4;
+}
+
+.social-links-youtube a i:hover{
+    opacity: 0.4;
+}
+
 #footer-details{
     padding: 20px;
 }
